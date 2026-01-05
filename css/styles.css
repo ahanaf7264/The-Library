@@ -3,3 +3,21 @@
     background-image: url(download.jpg);
     width: 50%;
 }
+nav li a{
+    text-decoration: none;
+}
+nav li {
+    list-style: none; 
+     display: inline;
+     margin-right: 280px;     
+}
+nav li :hover{
+background-color: aquamarine;
+}
+.sami{
+    background-color: cadetblue;
+    text-align: center;
+    color: blanchedalmond;
+    margin: 40px solid;
+}
+
