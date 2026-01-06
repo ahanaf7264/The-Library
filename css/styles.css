@@ -21,3 +21,26 @@ background-color: aquamarine;
     margin: 40px solid;
 }
 
+table{
+    border-collapse: collapse;
+    align-items: center;
+    background-color: turquoise;
+    
+}
+td,th{
+    border: 2px solid red;
+    padding: 10px 15px ;
+    justify-content: center;
+}
+caption{
+    color: purple;
+    text-decoration: double;
+    text-shadow: none;
+}
+.table-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
